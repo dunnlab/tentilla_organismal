@@ -93,7 +93,7 @@ Siphonophores have fascinated zoologists for centuries for their extremely subsp
 
 \FloatBarrier
 
-![\label{anatomy} Siphonophore anatomy. A - Nanomia sp. siphonophore colony (photo by Catriona Munro). B, C - Illustration of a Nanomia colony, gastrozooid, and tentacle closeup (by Freya Goetz). D - Nanomia sp. Tentillum illustration and main parts. E - Differential interference contrast micrograph of the tentillum illustrated in D. Figure reproduced from Damian-Serrano et al. 2020 with permission. F. Action strip showing the behavior of tentilla during prey capture, illustrated by Riley Thompson. ](~/tentilla_morph/Organismal_paper/figures/anatomy-01.png)
+![\label{anatomy} Siphonophore anatomy. A - Nanomia sp. siphonophore colony (photo by Catriona Munro). B, C - Illustration of a Nanomia colony, gastrozooid, and tentacle closeup (by Freya Goetz). D - Nanomia sp. Tentillum illustration and main parts. E - Differential interference contrast micrograph of the tentillum illustrated in D. Figure reproduced from Damian-Serrano et al. 2020 with permission. F. Action strip showing the behavior of tentilla during prey capture, illustrated by Riley Thompson. ](~/tentilla_organismal/figures/anatomy-01.png)
 
 \FloatBarrier
 
@@ -101,7 +101,7 @@ In @damian2020evolution, we collected the most extensive morphological dataset o
 
 \FloatBarrier
 
-![\label{figure2} Tentillum diversity. The illustrations delineate the pedicle, involucrum, cnidoband, elastic strands, terminal structures. Heteroneme nematocysts (stenoteles in C,E,F,G and mastigophores in H,I) are only depicted for some species. A - *Erenna laciniata*, 10x. B - *Lychnagalma utricularia*, 10x. C - *Agalma elegans*, 10x. D - *Resomia ornicephala*, 10x. E - *Frillagalma vityazi*, 20x. F - *Bargmannia amoena*, 10x. G - *Cordagalma* sp., reproduced from Carré 1968. H - *Lilyopsis fluoracantha*, 20x. I - *Abylopsis tetragona*, 20x.](~/tentilla_morph/Organismal_paper/figures/diversity.png)
+![\label{figure2} Tentillum diversity. The illustrations delineate the pedicle, involucrum, cnidoband, elastic strands, terminal structures. Heteroneme nematocysts (stenoteles in C,E,F,G and mastigophores in H,I) are only depicted for some species. A - *Erenna laciniata*, 10x. B - *Lychnagalma utricularia*, 10x. C - *Agalma elegans*, 10x. D - *Resomia ornicephala*, 10x. E - *Frillagalma vityazi*, 20x. F - *Bargmannia amoena*, 10x. G - *Cordagalma* sp., reproduced from Carré 1968. H - *Lilyopsis fluoracantha*, 20x. I - *Abylopsis tetragona*, 20x.](~/tentilla_organismal/figures/diversity.png)
 
 \FloatBarrier
 
@@ -109,7 +109,7 @@ Nematocysts are unique biological weapons for defense and prey capture exclusive
 
 \FloatBarrier
 
-![\label{nematocysts} Phylogenetic distribution of nematocyst types, subtypes, functions, and locations in the zooid across the major siphonophore clades. Illustrations reproduced with permission from Mapstone (2014). Undischarged capsules to the left, discharged to the right. Agalmatidae* here refers only to the genera *Agalma*, *Athorybia*, *Halistemma*, and *Nanomia*. ](~/tentilla_morph/Organismal_paper/figures/nematocysts.png)
+![\label{nematocysts} Phylogenetic distribution of nematocyst types, subtypes, functions, and locations in the zooid across the major siphonophore clades. Illustrations reproduced with permission from Mapstone (2014). Undischarged capsules to the left, discharged to the right. Agalmatidae* here refers only to the genera *Agalma*, *Athorybia*, *Halistemma*, and *Nanomia*. ](~/tentilla_organismal/figures/nematocysts.png)
 
 \FloatBarrier
 
@@ -149,7 +149,7 @@ We assume that haploneme nematocysts are ancestrally present in siphonophore ten
   
 \FloatBarrier
 
-![\label{figure7} Siphonophore cladogram with the main categorical character gains (green) and losses (red) mapped. Some branch lengths were modified from the Bayesian chronogram to improve readability. The main visually distinguishable tentillum types are sketched next to the species that bear them, showing the location and arrangement of the main characters. In large, complex-shaped euphysonect tentilla, haplonemes were omitted for simplification. The hypothesized phylogenetic placement of the rhizophysid *Bathyphysa conifera*, for which no molecular data are yet available, was added manually (dashed line).](~/tentilla_morph/Figures_final/figure7.jpg)
+![\label{figure7} Siphonophore cladogram with the main categorical character gains (green) and losses (red) mapped. Some branch lengths were modified from the Bayesian chronogram to improve readability. The main visually distinguishable tentillum types are sketched next to the species that bear them, showing the location and arrangement of the main characters. In large, complex-shaped euphysonect tentilla, haplonemes were omitted for simplification. The hypothesized phylogenetic placement of the rhizophysid *Bathyphysa conifera*, for which no molecular data are yet available, was added manually (dashed line).](~/tentilla_organismal/figures/figure7-01.jpg)
 
 \FloatBarrier
   
@@ -159,13 +159,13 @@ We assume that haploneme nematocysts are ancestrally present in siphonophore ten
 
 \FloatBarrier
 
-![\label{figure8} A. Correlogram showing strength of ordinary (upper triangle) and phylogenetic (lower triangle) correlations between characters. Both size and color of the circles indicate the strength of the correlation (R^2^). B. Scatterplot of phylogenetic correlation against ordinary correlation showing a strong linear relationship (R^2^ = 0.92, 95% confidence between 0.90 and 0.93). Light red and blue boxes indicate congruent negative and positive correlations respectively. Darker red and blue boxes indicate strong (<-0.5 or >0.5) negative and positive correlation coefficients respectively.](~/tentilla_morph/Figures_final/figure8.jpg){height=600px}
+![\label{figure8} A. Correlogram showing strength of ordinary (upper triangle) and phylogenetic (lower triangle) correlations between characters. Both size and color of the circles indicate the strength of the correlation (R^2^). B. Scatterplot of phylogenetic correlation against ordinary correlation showing a strong linear relationship (R^2^ = 0.92, 95% confidence between 0.90 and 0.93). Light red and blue boxes indicate congruent negative and positive correlations respectively. Darker red and blue boxes indicate strong (<-0.5 or >0.5) negative and positive correlation coefficients respectively.](~/tentilla_organismal/figures/figure8.jpg){height=600px}
 
 *Evolution of nematocyst shape* – The greatest evolutionary change in haploneme nematocyst shape occurred in a single shift towards elongation in the stem of Tendiculophora, which contains the majority of described siphonophore species, *i.e.* all siphonophores other than Cystonects, *Apolemia*, and Pyrostephidae. There is one secondary return to more oval, less elongated haplonemes in *Erenna*, but it does not reach the sphericity present in Cystonectae or Pyrostephidae (Fig. \@ref(figure10)). Heteroneme evolution presents a less discrete evolutionary history. Tendiculophora evolved more elongate heteronemes along the stem, but the difference between theirs and other siphonophores’ is much smaller than the variation in shape within Tendiculophora, bearing no phylogenetic signal within this clade. In this clade, the evolution of heteroneme shape has diverged in both directions, and there is no correlation with haploneme shape (Fig. \@ref(figure10)), which has remained fairly constant (elongation between 1.5 and 2.5). 
 
 \FloatBarrier
 
-![\label{figure10} Phylomorphospace showing haploneme and heteroneme elongation (log scaled). Orange area delimits rod-shaped haplonemes, the blue area covers oval and round-shaped haplonemes. Smaller dots and lines represent phylogenetic relationships and ancestral states of internal nodes under BM. Species nodes in red lack either haplonemes or heteronemes, and their values are projected onto the axis of the nematocyst type they bear. Cystonects have no tentacle heteronemes and are projected onto the haploneme axis. Apolemiids have no tentacle haplonemes and are projected onto the heteroneme axis. ](~/tentilla_morph/Figures_final/figure10-01-01.jpg)
+![\label{figure10} Phylomorphospace showing haploneme and heteroneme elongation (log scaled). Orange area delimits rod-shaped haplonemes, the blue area covers oval and round-shaped haplonemes. Smaller dots and lines represent phylogenetic relationships and ancestral states of internal nodes under BM. Species nodes in red lack either haplonemes or heteronemes, and their values are projected onto the axis of the nematocyst type they bear. Cystonects have no tentacle heteronemes and are projected onto the haploneme axis. Apolemiids have no tentacle haplonemes and are projected onto the heteroneme axis. ](~/tentilla_organismal/IOB-PostReview/Figure6.jpg)
 
 \FloatBarrier
 
@@ -179,7 +179,7 @@ Haploneme and heteroneme shape share 21% of their variance across extant values,
 
   In the non-phylogenetic PCA morphospace using only characters derived from simple measurements (Fig. \@ref(figure9)), PC1 (aligned with tentillum and tentacle size) explained 69.3% of the variation in the tentillum morphospace, whereas PC2 (aligned with heteroneme length, heteroneme number, and haploneme arrangement) explained 13.5%. In a phylogenetic PCA, 63% of the evolutionary variation in the morphospace is explained by PC1 (aligned with shifts in tentillum size), while 18% is explained by PC2 (aligned with shifts in heteroneme number and involucrum length). 
   
-![\label{figure9} PCA of the simple-measurement continuous characters principal components, excluding ratios and composite characters. A. Variance explained by each variable in the PC1-PC2 plane. Axis labels include the phylogenetic signal (K) for each component and p-value. B. Phylogenetic relationships between the species points and reconstructed ancestors distributed in that same space.](~/tentilla_morph/Figures_final/figure9.jpg){height=600px}
+![\label{figure9} PCA of the simple-measurement continuous characters principal components, excluding ratios and composite characters. A. Variance explained by each variable in the PC1-PC2 plane. Axis labels include the phylogenetic signal (K) for each component and p-value. B. Phylogenetic relationships between the species points and reconstructed ancestors distributed in that same space.](~/tentilla_organismal/IOB-PostReview/Figure8.jpg){height=600px}
 
 \FloatBarrier
 
@@ -187,7 +187,7 @@ Haploneme and heteroneme shape share 21% of their variance across extant values,
 
 \FloatBarrier
 
-![\label{morphodiet}Phylomorphospace showing PC1 and PC2 from a PCA of continuous morphological characters with inapplicable states transformed to zeroes, overlapped with polygons conservatively defining the space occupied by each feeding guild. Lines between species coordinates show the phylogenetic relationships between them. ](~/tentilla_morph/Organismal_paper/figures/morphospace_diets_full.png){height=600px}
+![\label{morphodiet}Phylomorphospace showing PC1 and PC2 from a PCA of continuous morphological characters with inapplicable states transformed to zeroes, overlapped with polygons conservatively defining the space occupied by each feeding guild. Lines between species coordinates show the phylogenetic relationships between them. ](~/tentilla_organismal/figures/morphospace_diets_full.png){height=600px}
 
 \FloatBarrier
 
@@ -199,7 +199,7 @@ Haploneme and heteroneme shape share 21% of their variance across extant values,
 
 \FloatBarrier 
 
-![\label{figure6}Hypothetical feeding guilds for siphonophore species predicted by a 6 PCA DAPC. Cell darkness indicates the posterior probability of belonging to each guild. The training dataset was transformed so inapplicable states are computed as zeroes. Species are sorted and colored according to their predicted feeding guild.](~/tentilla_morph/Figures_final/figure6.jpg)
+![\label{figure6}Hypothetical feeding guilds for siphonophore species predicted by a 6 PCA DAPC. Cell darkness indicates the posterior probability of belonging to each guild. The training dataset was transformed so inapplicable states are computed as zeroes. Species are sorted and colored according to their predicted feeding guild.](~/tentilla_organismal/figures/figure6.jpg)
 
 \FloatBarrier
 

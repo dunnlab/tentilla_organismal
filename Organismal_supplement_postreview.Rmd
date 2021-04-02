@@ -43,34 +43,34 @@ knitr::opts_chunk$set(echo = TRUE)
 # Supplementary Materials {-}
 \FloatBarrier
 
-![\label{SIMMAPtentilla} SIMMAP Tentilla presence/absence.](~/tentilla_morph/Organismal_paper/IOB-PostReview/raw_figures/SM1_SIMMAPtentilla-01.png)
+![\label{SIMMAPtentilla} SIMMAP Tentilla presence/absence.](~/tentilla_organismal/IOB-PostReview/raw_figures/SM1_SIMMAPtentilla-01.png)
 
-![\label{SIMMAPproxhet} SIMMAP Cnidoband proximal heteroneme presence/absence.](~/tentilla_morph/SysBio_Submission/Post-submission modifications/Supplementary_materials/Online_appendices/PNGs/proxhet_presence.png)
+![\label{SIMMAPproxhet} SIMMAP Cnidoband proximal heteroneme presence/absence.](~/tentilla_organismal/IOB-postreview/raw_figures/PNGs_supp/proxhet_presence.png)
 
-![\label{SIMMAPdesmorhopalo} SIMMAP Desmoneme+Rhopaloneme presence/absence.](~/tentilla_morph/SysBio_Submission/Post-submission modifications/Supplementary_materials/Online_appendices/PNGs/desmorhopalo_SIM.png)
+![\label{SIMMAPdesmorhopalo} SIMMAP Desmoneme+Rhopaloneme presence/absence.](~/tentilla_organismal/IOB-postreview/raw_figures/PNGs_supp/desmorhopalo_SIM.png)
 
-![\label{SIMMAPdischarge} SIMMAP Actively discharging cnidobands presence/absence.](~/tentilla_morph/SysBio_Submission/Post-submission modifications/Supplementary_materials/Online_appendices/PNGs/discharge_SIM.png)
+![\label{SIMMAPdischarge} SIMMAP Actively discharging cnidobands presence/absence.](~/tentilla_organismal/IOB-postreview/raw_figures/PNGs_supp/discharge_SIM.png)
 
-![\label{SIMMAP_ES} SIMMAP Elastic strands presence/absence.](~/tentilla_morph/SysBio_Submission/Post-submission modifications/Supplementary_materials/Online_appendices/PNGs/Elasticstrands_SIM.png)
+![\label{SIMMAP_ES} SIMMAP Elastic strands presence/absence.](~/tentilla_organismal/IOB-postreview/raw_figures/PNGs_supp/Elasticstrands_SIM.png)
 
-![\label{SIMMAP_distalDesmo} SIMMAP Cnidoband distal desmonemes presence/absence.](~/tentilla_morph/SysBio_Submission/Post-submission modifications/Supplementary_materials/Online_appendices/PNGs/distalDesmo_SIM.png)
+![\label{SIMMAP_distalDesmo} SIMMAP Cnidoband distal desmonemes presence/absence.](~/tentilla_organismal/IOB-postreview/raw_figures/PNGs_supp/distalDesmo_SIM.png)
 
-![\label{SIMMAP_Coiled} SIMMAP Coiled cnidoband phenotype presence/absence.](~/tentilla_morph/SysBio_Submission/Post-submission modifications/Supplementary_materials/Online_appendices/PNGs/Coiled_Sim.png)
+![\label{SIMMAP_Coiled} SIMMAP Coiled cnidoband phenotype presence/absence.](~/tentilla_organismal/IOB-postreview/raw_figures/PNGs_supp/Coiled_Sim.png)
 
-![\label{SIMMAP_HetType} SIMMAP Heteroneme type.](~/tentilla_morph/Organismal_paper/IOB-PostReview/raw_figures/SM8_heterotype_SIMMAP-01.png)
+![\label{SIMMAP_HetType} SIMMAP Heteroneme type.](~/tentilla_organismal/IOB-postreview/raw_figures/SM8_heterotype_SIMMAP-01.png)
 
-![\label{SIMMAP_HapType} SIMMAP Haploneme type.](~/tentilla_morph/Organismal_paper/IOB-PostReview/raw_figures/SM9_haplotype_SIMMAP-01.png)
+![\label{SIMMAP_HapType} SIMMAP Haploneme type.](~/tentilla_organismal/IOB-postreview/raw_figures/SM9_haplotype_SIMMAP-01.png)
 
-![\label{ModelSupport} Model support (delta AICc), phylogenetic signal (Blomberg’s K), and phylogenetic signal permutation test p-value for each continuous character. Ntaxa = Number of taxa used in the analyses after removing those where the character sate is inapplicable or the data is missing.](~/tentilla_morph/Supplementary_materials/Online_appendices/PNGs/modelSupport.png){height=600px}
+![\label{ModelSupport} Model support (delta AICc), phylogenetic signal (Blomberg’s K), and phylogenetic signal permutation test p-value for each continuous character. Ntaxa = Number of taxa used in the analyses after removing those where the character sate is inapplicable or the data is missing.](~/tentilla_organismal/IOB-postreview/raw_figures/PNGs_supp/modelSupport.png){height=600px}
 
-![\label{ModelAdequacy} P-values of the model adequacy score tests for the best model supported for each morphological character. Cvar = coefficient of variation of the absolute value of the contrasts. Svar = Slope of a linear model fitted to the absolute value of the contrasts against their expected variances. Sasr = slope of the contrasts against the ancestral state inferred at each corresponding node. Shgt = slope of the contrasts against node depth. Dcfd = Kolmolgorov-Smirnov D-statistic comparing contrasts to a normal distribution with SD equal to the root of the mean of squared contrasts. P-values < 0.05 were highlighted in grey, indicating significant deviations between the model and the observed data.  ](~/tentilla_morph/Supplementary_materials/Online_appendices/PNGs/modelAdequacy.png)
+![\label{ModelAdequacy} P-values of the model adequacy score tests for the best model supported for each morphological character. Cvar = coefficient of variation of the absolute value of the contrasts. Svar = Slope of a linear model fitted to the absolute value of the contrasts against their expected variances. Sasr = slope of the contrasts against the ancestral state inferred at each corresponding node. Shgt = slope of the contrasts against node depth. Dcfd = Kolmolgorov-Smirnov D-statistic comparing contrasts to a normal distribution with SD equal to the root of the mean of squared contrasts. P-values < 0.05 were highlighted in grey, indicating significant deviations between the model and the observed data.  ](~/tentilla_organismal/IOB-postreview/raw_figures/PNGs_supp/modelAdequacy.png)
 
-![\label{ph.int} Heatmap showing the phenotypic integration between character modules accounting for phylogeny. Text in cells shows p-values. Color indicates the partial least squares (PLS) multivariate correlation coefficients. ](~/tentilla_morph/Figures_final/phint.png)
+![\label{ph.int} Heatmap showing the phenotypic integration between character modules accounting for phylogeny. Text in cells shows p-values. Color indicates the partial least squares (PLS) multivariate correlation coefficients. ](~/tentilla_organismal/figures/phint.png)
 
-![\label{DAPCsofthard} DAPC for soft-bodied vs. hard bodied prey specialization. Six PCs retained after a-score optimization (100 iterations). Two LDA functions used. Discriminant power on training set: 90.9%. Grayscale heat map shows the posterior probability distribution of the predictions. Variable contribution (top quartile) calculated by the sum of the LDA variable loadings weighted by the eigenvalue of each LDA.](~/tentilla_morph/SysBio_Submission/Post-submission modifications/Supplementary_materials/Online_appendices/PNGs/DAPC_softhard.png)
+![\label{DAPCsofthard} DAPC for soft-bodied vs. hard bodied prey specialization. Six PCs retained after a-score optimization (100 iterations). Two LDA functions used. Discriminant power on training set: 90.9%. Grayscale heat map shows the posterior probability distribution of the predictions. Variable contribution (top quartile) calculated by the sum of the LDA variable loadings weighted by the eigenvalue of each LDA.](~/tentilla_organismal/IOB-postreview/raw_figures/PNGs_supp/DAPC_softhard.png)
 
-![\label{figure3} Heatmap summarizing the morphological diversity measured in Damian-Serrano *et al.* 2020 for 96 species of siphonophores clustered by similarity (raw data published in Damian-Serrano 2020). Missing values from absent characters presented as dark grey cells, missing values produced from technical difficulties presented as white cells. Values scaled by character.](~/tentilla_morph/Figures_final/figure3.jpg)
+![\label{figure3} Heatmap summarizing the morphological diversity measured in Damian-Serrano *et al.* 2020 for 96 species of siphonophores clustered by similarity (raw data published in Damian-Serrano 2020). Missing values from absent characters presented as dark grey cells, missing values produced from technical difficulties presented as white cells. Values scaled by character.](~/tentilla_organismal/figures/figure3.jpg)
 
-![\label{appendix2} Character definitions. ](~/tentilla_morph/Supplementary_materials/Online_appendices/PNGs/character_def.png){height=500px}
+![\label{appendix2} Character definitions. ](~/tentilla_organismal/IOB-postreview/raw_figures/PNGs_supp/character_def.png){height=500px}
 
 
