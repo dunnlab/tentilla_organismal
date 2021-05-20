@@ -1,0 +1,227 @@
+Our comments and responses to the reviewers are predeced by the character ">".
+
+Associate Editor
+Comments to the Author:
+Thank you for the opportunity to review your MS examining the diversity and evolution of prey capture structures in siphonophores. We have now received comments from two reviewers. Both were quite positive about the MS and felt it would be a good fit for the audience of IOB.
+
+However, both reviewers also offered several suggestions. Among the most significant of these was offered by Reviewer 2, who noted that the MS could help readers who are not specialists on the group by expanding the context provided in the Introduction, and broadening the conclusion to consider implications for other cnidarian lineages. I would add to this recommendation that it would be helpful to rework the Introduction in a framework that explains what hypotheses the manuscript will test. As currently written, the Introduction describes several things that the MS will do, or comparisons it will make, but it does not give a specific outline of the questions it will answer. This seems particularly important since the MS is cast as complementary to the recent PNAS publication by this group of authors. It is important to clarify for readers how this MS should be viewed as distinct from the PNAS paper.  Reviewer 2 also recommends several clarifications regarding the specific nematocyst characters examined.
+
+>We thank the Associate Editor for these constructive suggestions. We have expanded the Introduction to facilitate understanding of the natural history of the system for a broad readership, clarified the questions and hypotheses tackled in this manuscript and how it differs from the PNAS paper, and broadened the Discussion to include comparisons to other cnidarian systems.
+
+In the context of these reviews, I would ask you to prepare a revised manuscript in which you carefully take these comments into account, and explain how your revisions have addressed the points raised.
+
+Thank you once again for your submission.  I hope you find the reviewer comments to provide constructive guidance for revising your manuscript, and look forward to seeing your revised MS.
+
+###########
+
+>We thank the reviewers for their detailed and constructive feedback.
+
+Reviewer: 1
+
+Comments to the Author
+MS ID: IOB-2021-002. The Evolutionary History of Siphonophore Tentilla: Novelties, Convergence, and Integration.
+
+General: A very elegant, sophisticated and complex piece of work for which the authors should be heartily congratulated. The findings are fascinating and shed much new light on the detailed evolution of siphonophore tentilla and their nematocysts based on a relatively large number of 55 species. This is a considerable feat bearing in mind how difficult siphonophores are to locate, collect and analyse in the field. The data obtained have been summarized and rigorously tested in the results section, and the findings well interpreted in the discussion. There are a few small grammatical and spelling errors, and text placements in some figures which are noted below, a minor query about one phrase in the introduction and another about the type of heteronemes in Agalma. Once these have been addressed, the paper should be ready for publication. Totton and Weill would have been fascinated by the findings in this paper!
+Introduction: Mostly clear, well-written and presented, including a nice description of tentilla as dynamic structures reacting to prey encounters by rapidly unfolding their cnidobands and slapping them onto the prey (before the struggling prey has time to damage the delicate gelatinous siphonophore) and a summary of the nine types of nematocysts found in siphonophores. Also, of course, a summary of the main aim of the paper: reconstruction of the shifts, gains and losses of nematocyst types etc which led to the extant tentilla diversity seen today.
+Line 11: the phrase “from an orthogonal perspective” could be difficult for some readers to comprehend and needs replacing with another more generally accepted and easier to understand phrase. An evodevo colleague had no notion of its meaning either. Looking at the use of this word in some other IOB published papers (as the phrase does not come up on Google), it could mean ‘a normal perspective’, or, perhaps, refers to when the tentilla are held out at right angles to the tentacle? ‘Ortho’ derives from the Greek meaning ‘straight’.
+
+>We thank the reviewer for pointing this out. We agree the word ‘orthogonal’ obscures understanding. We modified the text to “a comparative perspective across taxa”.
+
+Line 13: “focus on one of such structures: the tentilla.” To be grammatically correct, since tentilla is a plural noun, this should be ‘tentillum’.
+
+>We corrected this in the text.
+
+Fig. 1 is a compilation of siphonophore anatomy from the 2020 preprint, and a new rather neat visual representation of prey capture by the tentillum. Fig. 2 is a carefully constructed new figure showing diverse tentillum structure (using different colours) in 9 species paired with a good quality photomicrograph of each tentillum. Fig. 3 shows a chart of the 9 nematocyst types, the position of each in the tentillum and below the phylogenetic position of each type in the 15 main clades/species of siphonophores. 
+
+Line 63: recordings of “in vivo discharge dynamics of several siphonophore species at sea” is interesting. These videos don’t seem to be available in the version of the IOB paper provided but would be interesting for readers to view in the Supplementary Materials once the paper is published. 
+
+>We added a new reference to a Dryad repo where the videos can be found. We added citations to the repo in the text where relevant.
+
+Methods: This seems to all be in order as far as can be determined by this referee.
+Results: Begins by summarizing an unusual finding from the 2020 preprint: a new clade comprising Erenna spp and Stephanomia amphytridis, characterized by ‘giant’ tentilla which give access to larger prey including deep sea fish. It revises the definition of tentilla to include Physalia buttons since they are formed as an evagination of the gastrovascular canal of the tentacle. 
+
+Line 146 et seq. Here the authors are redefining the meaning of the word ‘tentillum’. This is fine, but because Fig.1 SIMMAP in the Supplementary Materials shows tentilla absent from cystonects, this should perhaps be noted as the traditional interpretation of tentilla in the legend.
+
+>We thank this reviewer for identifying this error. The color key is inverted in this SIMMAP due to a typo in the code. We corrected this in the supplement.
+
+Line 166: Not wishing to detract from the main findings of this paper, it does seem from the literature that although stenoteles are present in almost all eucladophoran physonect tentilla, in Agalma elegans and A. clausi heteronemes are represented instead by microbasic mastigophores (see Purcell 1984, p.319, Fig. 4 O & P; Manko & Pugh 2018, p.324); this also likely applies to Cordagalma parchelion (Pugh 2016). A caveat needs to be added somewhere in the paper to this effect. These heteronemes clearly are NOT stenoteles in A.clausi, as confirmed by Carina Ostman (a nematocyst expert), nor in A.elegans, and probably neither in A.okenii, though the nematocysts of this species have yet to be investigated by a modern researcher. 
+
+>We deeply appreciate the expert evaluation of our organismal work from this reviewer. We agree with this comment and we have corrected these entries in the categorical character matrix, Figure 4, SM SIMMAP 8, and in the manuscript text by Line 166.
+
+Lines 169, 170, 194, 197 et seq. Use of the word ‘stem’. It is generally clear in the text that this term refers to different branches of the molecular tree, but, for the less specialized reader it could refer instead to the siphosomal stem from which the gastrozooids and their tentacles arise. Perhaps it needs clarifying at first usage?
+
+>This is a very good point, the wording easily confounds the organismal structure and the phylogenetic concept. We changed the use of “the stem of” to “the lineage/branch leading to”.
+
+Line 193: In the phrase ‘all extant siphonophore species’ siphonophore should have a lower case ‘s’
+
+>We corrected this typo.
+
+Figure 4: Beautifully designed and constructed. It is a really amazing visual summary of the character gains and losses in the tentilla and nematocysts of siphonophores during evolution, which have facilitated their huge diversity. It contains so much information that considerable time is needed to assimilate it and relate it to the text. Although tentilla were the ancestral state in the first siphonophore (from the 2020 preprint), and were later lost in apolemiids, the conclusion that haplonemes are the only ancestral nematocyst type in siphonophores is interesting. As is the evolutionary history of all the tentillar structures: the gain of 2 types of spherical isorhiza haplonemes in cystonects etc; the first appearance of heteronemes in codonophorans; the loss of tentilla and acquisition of unique birhopaloid heteronemes in apolemiids; the acquisition of a terminal filament and proximal positioning of heteronemes in all eucladophorans; the acquisition of a saccus canal in pyrostephids; the gains of rhopalonemes (x2) and desmonemes in the terminal filament, a detachable cnidoband with an elastic strand and extremely elongate anisorhizas and elongate heteronemes in all tendiculophorans (though it is unclear why the vertical line for this clade is slightly shorter than that for the euphysonectae – perhaps its needs lengthening?). 
+
+>We appreciate the detailed attention of this reviewer to our Figure 4. The vertical clade line was slightly shorter than it should by mistake. We fixed this issue.
+
+The next major divergence, viz: the Euphysonectae from the Calycophorae, included the acquisition of larval tentilla and a coiled cnidoband in Euphysonectae (2 gains), in contrast to 6 gains in the Calycophorae which include: desmoneme sinkers (fascinating if true for all calycophorans . .), a folded ventral elastic strand, fixed 7 rows of haplonemes (also most interesting), extremely elongate mastigophores, distal cnidoband desmonemes, and an involucrum-like saddle (never seen by the present referee, but assumed to be a correct observation). The visuals of tentillum types in Clades B and A of the euphysonects are good, as are the prayomorph and diphyomorph visuals for the two main clades of calycophorans. 
+
+There are a lot of other interesting gains, and a few losses, amongst the euphysonect clades, particularly the loss of the involucrum in forskaliids and Cordagalma ordinatum and the gain of an encapsulated cnidoband in Frillagalma (not previously recognized) plus two serial distal vesicles, the loss of terminal filament + its haplonemes in Lychnagalma and Physophora, together with the gains of cnidoband encapsulation independently plus its coiling in these two genera etc, and then the agalmatid species Nanomia bijuga which shows no additional gains or losses of its own, loss of the involucrum in Halistemma rubrum, (Yes, it is vestigial in H. rubrum, but not completely lost; also undoubtedly present, though much reduced, in H. foliacea, see Pugh & Baxter Fig.72 & Mapstone 2004 fig. 3a-b, H. maculatum & H. transliratum; perhaps a short comment should be added about this somewhere in the text?) and the four remaining agalmatids tested (Agalma spp and Athorybia rosacea) which have gained two terminal filaments separated by an ampulla. 
+
+>We agree with this comment and we added a paragraph in the results referring to these special euphysonect gains and losses shown in Figure 4. We also included an explanation on the different degrees of involucrum reduction in Halistemma spp.
+
+It is good to see that the acquisition of stenotele nematocysts in all euphysonects is not included in Fig. 4, since in Agalma elegans and A. clausi the heteronemes are microbasic mastigophores, as noted above for Line 166.
+
+>We agree with the reviewer’s take on the heteroneme subtype of Agalma. Instead of having it omitted, we added the gain of stenoteles in Eucladophora, and the subsequent shifts to mastigophores in Agalma and Calycophorae based on the new reconstructions in SM8.
+
+Line 316 – cystonects missing an ‘s’ at the end.
+
+>We corrected this typo.
+
+Line 336 et seq.: Generating dietary hypotheses using tentillum morphology: It is indeed most interesting that some generalist siphonophore feeders evolved from specialists, as well shown in Fig. 3 of the 2020 paper and enlarged upon here in Fig. 10 (where known tentacle morphology is plotted against likely diet for 45 species) and the discussion. Somehow this figure epitomizes a new way of looking at the enormous diversity of siphonophore species, based on a particularly important aspect of their ecology - feeding strategy and diet - and the transitions in tentillum and nematocyst morphology which gave rise to this diversity during evolution. It adds much new information to our knowledge of siphonophores as an animal group inhabiting the deep-sea environment.  
+
+Discussion: 
+
+Some lovely elegant conclusions about the evolution of tentilla, nematocysts and diet amongst siphonophores in this section. The hypothesis that natural selection favours correlation between nematocyst type and shape with tentillum structure in siphonophores is superb. Especially appealing is the evolution of the shooting cnidoband in tendiculophorans taking advantage of the new copepod food source to explain why they have become so much more specious than cystonects, apolemiids and pyrostephids. And the example of convergent evolution in Cordagalma retaining small larval tentilla to feed on copepods, like many calycophorans, is interesting, enabling it to exploit a different feeding niche to other euphysonects in Clade A. Also the very plausible explanation for the unique tentillum of Frillagalma adapting it to a diet of smaller prey than other Clade A euphysonects, albeit perhaps as a generalist rather than a small crustacean specialist like Cordagalma. It will be interesting to see the results of further investigations into the actual diet of Frillagalma, when this becomes possible.
+It is also good to discover that the unique nematocysts characteristic of siphonophores have led to their great success as a group in the deep-sea habitat, particularly anisorhizas which, in most species, have become narrow and elongate (enabling more to be packed into the cnidoband) to perform an adhesive function for copepod/ostracod entanglement. And the more rounded isorhizas for penetration of fish skin in cystonects and Erenna, plus Stephanomia. One hopes more light will soon be shed on the undescribed Physonect sp. in euphysonect Clade B, which is also a fish specialist, and also verification of the diets of Physophora and Forskalia spp, as fish feeders (Fig. 10), in the wild. 
+
+Supplementary materials: Fig. 1 SIMMAP: this shows tentilla presence/absence as tentilla were defined before the 2020 paper - this fact needs mentioned somewhere (as noted above) otherwise the tree is a bit misleading. 
+
+>The issue with this figure is that presence and absence colors are inverted, thus showing cystonects with no tentilla. We corrected the color coding of the key in SM1.
+
+Fig. 7 SIMMAP. Title spelling error – change to ‘cnidoband’.
+
+>We corrected this typo in SM7.
+
+Figs 8 & 9: the key to tree branch colours needs to be moved down to the bottom left-hand corner in both these figures. Also, maybe this is the location to mention, under Fig. 8, that the heteronemes in Agalma spp & Athorybia are microbasic mastigophores, NOT stenoteles? Or in the text somewhere.
+
+>We adjusted the location of the color key boxes in SM8 and SM9. Also, we regenerated SM8 with the correct heteroneme type designations for Agalma & Athorybia.
+
+SM16:  line 38; the correct spelling is Amphicaryon ernesti.
+
+>We corrected this typo in SM16.
+
+###########
+
+Reviewer: 2
+
+Comments to the Author
+This paper is a very through exploration of the evolution of characters of the tentilla and potential correlations with feeding guild.  Furthermore, it provides a model for exploring the evolution of other structures that may provide insight into evolutionary pressures.  The nematocyst part of this work is particularly interesting and could be more broadly applicable to other cnidarian groups.  I do feel that this work should be published but I have a few major concerns. 
+
+First, the paper as currently written is somewhat difficult to follow if the reader is not familiar with siphonophores.  The following should be in the introduction:  the definition of tentilla (currently in methods), an explanation/definition of the different tissues/parts of the tentilla, how these parts are involved in the dynamic movements of the structure seen in Fig.1 F, and a sentence or two describing the diversity seen in fig. 2.  Having this information in the introduction gives readers who do not work on siphonophores a better grounding to understand the evolution of these structures and potential effects on feeding. 
+
+>We agree with Reviewer 2 that the introduction could have improved signposting for the non-expert audience. We moved the definition of tentilla from the Methods to the Introduction, added a paragraph describing the different parts and their role in the discharge behavior, and added a brief commentary about the diversity shown in Fig. 2 within the figure caption. 
+
+Second, I have some fundamental questions about the nematocyst characters that were not answered here or in the 2020 paper often referenced. It appears that the authors are using two sets of nematocyst characters: presence/absence of types and measurements of size.  The first is fine, but the second needs some careful analysis.  Going back to original data set linked in the 2020 paper (which should be linked here as well), I see that all the continuous nematocyst characters have a single value for each individual specimen. I assume the authors measured multiple nematocysts and this value is an average. I see in the 2020 data that they have a table of the species mean and standard error, but it still does not mention how many nematocysts were measured and it looks like some individuals only had one measured (or had no variance).  
+
+>We understand the concerns raised by Reviewer 2 regarding the original measurement data used. We did not measure multiple nematocysts per specimens and took an average, instead we searched the slide and tried to find at least one measurable nematocyst of each type in the correct orientation and without obstruction from other structures. This can be challenging in fixed mounted slides, to the point where some species were not included in the comparative analyses for failing to have visible/measurable nematocysts in the slide. Given that the goals of this study are comparative between species and not diagnostic for taxonomic purposes, taxon representativity of the sampled measurements is less pressing. Our analyses integrating intraspecific variation interpret each individual manifestation of these characters as a tip in the tree. In comparative studies, lack of taxon sampling and lack of intraspecific sampling can have much larger effects on the results than uncaptured intra-specimen variation. We believe that our multi-specimen sampling is sufficient to account for intraspecific variation. We calculated the standard error for these mean values which takes into account the small sample size to estimate a conservative range of expected variation. The ranges predicted by our error margins are consistent with the variation reported in the literature. However, we do agree with Reviewer two that future additional intra-specimen sampling would be of great value to uncover character subspecialization patterns and variation across developmental stages of tentilla and across zooids of different ages in the colony. Thus we made the original microscopy image files available online to facilitate additional measurements and reanalyses in the future. We are uploading compressed 2D versions of each image (with scale bars) onto the Yale Peabody Museum collections website (https://collections.peabody.yale.edu/). Moreover, the full z-stack scans will be available upon request from the Invertebrate Zoology collection staff. We included additional supplementary files with the original (by specimen) data, the species means and SDs data, and the number of specimens measured per species. We also added a citation of the Dryad repository associated with the PNAS paper and added text in the Methods section making our data density and measurement decisions more explicit to the readers.
+
+They do not report if the nematocyst measurements show a normal distribution.
+
+>Across species, nematocyst measurements are log-normally distributed and thus were log-transformed for their use in Brownian-Motion based analyses. Ratio variables (such as elongation) were normally distributed. Given the small sample size of intraspecific measurements, we could not determine if these follow a normal distribution within each species. We added an explanatory line about this in the Methods.
+
+In previous work on other cnidarians, particularly sea anemones, the number of nematocysts measured is extremely important to be sure that variation is fully captured (more being better).  Furthermore, intra-individual variation can be quite high and nematocysts often do not show a normal distribution in size metrics, which makes using averages to represent the species problematic.  There are reasons to believe that siphonophores may be different from sea anemones here, particularly in the tentilla, (having to do with nematocyst development and how regularly arranged the nematocysts are in the tentilla) but I feel that the authors need to address this somewhere.
+
+>We agree with Reviewer 2 that the variation in nematocyst metrics is not fully captured by our sampling strategy but we believe that it is sufficient for the purposes of this study. In tentilla, the variation within nematocyst types is appreciably small in desmonemes, rhopalonemes, and heteronemes. For example, in the description of Sphaeronectes haddocki by Pugh et al. 2009 they describe the mastigophore size range is 65.4x10.4µm - 63.6x9.1µm; or in Purcell 1984 Agalma okeni stenoteles can range between 112.5x20µm - 135x24µm. The error margins on our mean values match the ranges measured in other published studies where multiple nematocysts were measured per specimen. Our evolutionary models and phylogenetic signal calculations incorporate these error margins.  We clarified in the Methods section that only one nematocyst per specimen was measured.
+
+Also, how are they dealing with taxa that have multiple size classes within one nematocyst type?  They mention it happens (line 162, 173), but because I am so unclear on how they did the statistics of this study, I do not understand how those were treated.
+
+>This is a great point and we agree that we should make our upstream measurement decisions clearer in the manuscript. For haplonemes there are exceptions to the typical nematocyst uniformity in tentilla, where anisorhizas near the edge of cnidobands tend to be smaller, and cystonects having two size classes of isorhizas. We interpreted these cases as instances of character subspecialization, and decided to be consistent with a single subtype (central anisorhizas and larger-class isorhizas) given the limitations of current comparative methods, instead of using an unrepresentative mean. We clarified this in the Methods text.
+
+Relatedly, some taxa only have one representative sample.  How confident are the authors that the measurements from one sample are truly representative of the taxon? Discussion of this in the samples where they have multiple individuals would be helpful towards this question. This treatment of nematocyst continuous characters may be entirely justified, but authors need to state how they used these measurements clearly and be explicit about the assumptions made here. 
+
+>Indeed, among the 45 species included in the comparative analyses, we measured at least 3 specimens for 36 of them, with the exception of 9 species which had one or two specimens. The number of specimens included per species was limited by specimen availability, since finding and collecting certain siphonophore species (especially deep-sea ones) can be extremely challenging. We added an explanation of this in the Methods and pointed out which species have fewer than 3 individual replicates. These may be imperfect representations of the variation in these taxa for taxonomic or diagnostic purposes, but they are the best we have. Omitting these taxa in a broad-scale phylogenetic comparative study would have a stronger bias on the results than including them. We included (and cited in the text) an additional supplement clearly showing the number of specimens measured per species. 
+
+The second question I have about the continuous nematocyst characters has to do with independence of those characters.  The authors use some continuous characters that are not fully independent, such as length and elongation.  I understand that the authors want to get at some shape characteristics but when mapping on the tree it seems more useful to me to have the underlying data (length and width) to see what is actually changing than the more abstract elongation.  They can still represent the elongation they are seeing in Fig. 4 with outlines of the shapes but I don’t understand the value of mapping it as a separate character.  Also, there is more than one way to achieve elongation (narrow the width, elongate the length, or both) and it is difficult to tell if elongation is happening in the same way across the tree or if different patterns are resulting in this shape. 
+
+>We understand the points raised by Reviewer 2 on the non-independence of length/width and elongation, and on the plurality of ways to achieve elongation. We do not assume all characters to be independent of each other, on the contrary we explicitly evaluate covariation between characters. When discussing these correlations, we do not interpret these compound-vs-simple variable autocorrelations as biologically meaningful. We consider the evolutionary histories of lengths, widths, and elongations as separate questions and we believe there is added value in studying shifts in shape itself in addition to shifts in its elemental dimensions. Our comparative and evolutionary analyses were carried out on both the lengths and widths separately as well as on the elongations. In alignment with the spirit of Reviewer 2’s comment, the SURFACE convergence analysis on haploneme shape was run on the separate dimensions to clearly disentangle shifts in width from shifts in length. While nematocyst length scales with tentillum size, independent shifts in haploneme width are responsible for the convergent shifts in haploneme elongation. We added a clarification of this matter in the Results section.
+
+In general, the authors need to be consistent about how they refer to their characters.  For example, in the figures they reference “heteroneme free length” but that is not listed in Fig. 15 so I am not sure if that is referring to “heteroneme length” or something else.
+
+>We agree that “free length” is redundant in non-coiled structures such as heteronemes and not consistent with the naming scheme adopted in SM15. We corrected the character labels in figure 8A. 
+
+Related to this, authors should be explicit about what they mean when they reference nematocyst shape (I think they are typically referring to the elongation character).  Previous authors have characterized nematocyst shape in different ways so they should be clear what they mean here. 
+
+>We agree that our use of the word ‘shape’ can be ambiguous. We clarified its use in some instances and replaced it with ‘elongation’ in others.
+
+Finally, the conclusions about the evolution of nematocysts is currently very narrowly focused on siphonophores.  Nematocysts are the one feature studied here that are found in all cnidarians and I think a paragraph in the discussion that takes into consideration patterns in other cnidarian groups or other cnidarian systems that this approach would be informative would help make this work more broadly interesting.  For example, as I mention below, acontia in sea anemones have noticeably elongated nematocysts and are also densely packed.  Furthermore, the pattern of heteronemes where the more derived group Calycophora has a simpler nematocyst (microbasic mastigophores) than other groups (which have birhopaloids and particularly stenoteles) is really interesting and a potential point of further study to help separate the functional differences of these types, of which we don’t currently have a great understanding.
+
+>We are very grateful for this constructive comment. We added a paragraph to the Discussion relating these findings to cnidarians as a whole, highlighting the interesting examples proposed by Reviewer 2.
+
+Minor notes about specific lines/figures below:
+
+Line 14 Acrorhagi are another nematocyst laden structure that responds, though admittedly not as quickly or dynamically as the tentilla.  But interesting to think about other nematocyst laden structures used for specific purposes.  It may be worth mentioning some of these other structures to think about how the work here could be applied more generally. 
+
+>Interesting example. We added a line in the Introduction comparing tentilla to acrorhagi.
+
+Line 116 especially since authors base one whole analysis on the length and width, important to understand how many they measured or some idea of how sure they are that they captured the full variation
+
+>We added a specification near that line with the exact number of species and specimens measured in that analysis, and cited the new supplement with the number of specimens per species.
+
+Line 146 Are the buttons shown in Fig. 2?  Authors should have an image to reference if possible since non-siphonophore specialists may not know the taxa referenced.  
+
+>The Physalia buttons are not shown in Fig. 2. We added a link to one of our DIC micrographs hosted at the Yale Peabody Museum website to provide a visual reference for the reader https://collections.peabody.yale.edu/search/Record/YPM-IZ-106663
+
+Supplementary figures need cleaning up (legend overlaps with tree in some cases)
+
+>We have cleaned up the key position in SM1, SM8, and SM9.
+
+Line 157 I don’t really have any problem with this assumption but I assume the authors have some ideas as to the sister group to the siphonophores and I would think some mention of what they have would be mentioned here.
+
+>We did not have a precise idea for the phylogenetic placement of siphonophores, as studies covering this question have retrieved inconsistent results. We added a brief discussion of the recent literature regarding the phylogenetic position of siphonophores within Hydroidolina. In any case, all candidate placements are congruent with the ancestral haploneme assumption. 
+
+Line 162 I am unclear on how the authors are dealing with some taxa having two size categories of a particular nematocyst type, how does this affect the measurements input into the analysis?  
+
+>As explained in an earlier comment, we interpreted these cases as instances of character subspecialization, and decided to be consistent with a single subtype. Phylogenetic comparative methods able to incorporate serially-homologous subspecialized characters are still under development. We added a clarification of this decision in the Methods text.
+
+Fig. 4 is a great figure but I do find it a bit cluttered and hard to find specific transitions mentioned in the text. There is value to having all the characters on one tree so maybe the solution is to number/color/somehow label the nodes so that they can be referenced in the text therefore making it easier to find the points of character changes being referenced?
+
+>We added numeric labels to the relevant branches in Fig. 4 and cited them in the manuscript text.
+
+Also on Fig. 4, are the homotrichous anisorhizas the same as the elongated anisorhizas?  It is not clear to me where the former is mapped onto the tree in fig 4 unless these are equal, Need to use the same terms in the text as in the tree.
+
+>Good point, both those transitions (type and shape) are simultaneous (on the same branch). We added ‘homotrichous’ to the label in Fig. 4 and ‘elongated’ in the text to make them clear and consistent.
+
+Line 173 Anisothizas = anisorhizas
+
+>We corrected this typo in the text.
+
+Line 179 microbasic mastigophores are penetrating as well (they are the primary penetrating nematocysts in Anthozoa) so I am not sure this is a strong argument.  Why would they be better than stenoteles?
+
+>We believe that the longer and more abundant spines in calycophoran mastigophores makes them better suited to entanglement and adhesion. We have some unpublished observations on this from SEM images of tentilla fired on different prey. We agree that using the word ‘penetrating’ in that sentence can confuse the reader into thinking that mastigophores cannot be penetrating. We removed the word ‘penetrating’ to focus the point on the enhanced adhesion/entanglement ability.
+
+Line 199 acrophore is stated to be the ancestral type of rhopaloneme but what is that based on?
+
+>We agree with the reviewer that this statement is not correct, since only Tendiculophora has rhopalonemes and each one of the main clades (Euphysonectae & Calycophorae) have acrophores and anacrophores respectively, it is not possible to ascertain which subtype is ancestral. We corrected this in the text.
+
+Line 214 since they did see phylogenetic signal in some of these continuous characters, the questions about whether they have truly captured the size variation becomes more important
+
+>We agree with the reviewer that it would be interesting to further investigate variation at different scales (species, individual, zooid, tentillum…), especially for phylogenetically conserved characters. We too hope future research will address these questions.
+
+Line 233 It’s not surprising that heteroneme shape, length, and all show the same trends because as I understand it (authors are not clear) shape is determined from length and width (this is assuming that shape refers to elongation since the authors are not clear exactly what they mean by shape here). 
+
+>Like the reviewer, we are also not surprised that these characters follow similar evolutionary modes. We did not draw any conclusions from that fact. As mentioned in response to an above comment, we disambiguated the use of ‘shape’ as elongation in some instances and directly replaced it with ‘elongation’ in others.
+
+Line 260 the shaft’s length and width will somewhat be constrained by the capsule length and width
+
+>Indeed. Many of these evolutionary correlations are driven by physical and developmental constraints. We explain our interpretation of these analyses in the discussion On the evolution of tentilla morphology, where we discuss how structures developed in close proximity are expected to share evolutionary variation, and emphasize the focus on integrated evolutionary variation across structures developed independently (basigaster nematocysts and tentillum structures).
+
+Fig 6 this graph is haploneme vs heteroneme yes?  Maybe denote the heteroneme variation in shape along the top of figure to visualize better
+
+>We added the x-axis label on the topside of Fig. 6 too and added a line in the caption explaining that the silhouettes on the right are haplonemes depicting their shape variation along the y axis.
+
+Line 308 The gelatinous morphospace is not significantly different from the other feeding guilds?
+
+>We are really glad Reviewer 2 noticed this and pointed it out. Indeed the gelatinous morphospace is significantly smaller than the other guilds. We re-ran the analyses and those contrasts came out significant. We must have missed those by mistake. We have now reported those significant differences in the Results section.
+
+Also are the gray ones the ones where you don’t have data on feeding? Should be mentioned in fig legend 9
+
+>That is correct. We added a mention to this designation in the caption of Fig. 9.
+
+Line 334 What do the authors mean by “stenoteles discharge a helical filament that “drills” itself through the medium”?  All nematocysts are helically twisted, so they all discharge like that. Stenoteles do have a point made by the three large spines so the force of their discharge is concentrated on a smaller area. Actually, stenoteles are the one type of nematocyst for which we have very good discharge data.  I haven’t seen the video so I am not sure exactly what they are referring to here that wasn’t previously known.
+
+>We concur with Reviewer 2 that all nematocysts are helically twisted. What we are referring to is an extremely wide-curved solenoid discharge, like a corkscrew, unique to euphysonect heteronemes (especially in Frillagalma). We added an explanation of this clarifying these nuances in the Results section and added a citation to the new Dryad repository with the high-speed videos.
+
+Line 434 these nematocysts may be outliers for medusoza (which is very interesting) but this elongate shape is quite common in some Actiniarians and hexacorals.  It is true that there has not been as much study of non-Hydra discharge of nematocysts (which tend to be more spherical) and I think the authors would strengthen their case by looking beyond siphonophores a bit here. 
+
+>This is a good point too. In the new paragraph we added to the Discussion relating our findings to Cnidarians more broadly, we added a line commenting on the potential implications of similar morphologies in anthozoans, and the importance of further research on nematocyst discharge beyond non-model organisms.
+
+Line 455 I feel that this is a place where the authors could broaden the scope of this work by pulling in information from outside of siphonophores.  The anthozoan side has nematocyst shapes that, at least superficially, match these elongated shapes.  Furthermore, structures like acontia can have very tightly packed, organized (though not as well organized as siphonophores) nematocysts with elongate shapes being common in both basitricous isorhizas and heteronemes (microbasic mastigophores) depending on which lineage you are looking at in sea anemones
+
+>We included this comparison and example in the Discussion paragraph we added in response to an earlier comment.
